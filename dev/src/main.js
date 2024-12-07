@@ -6,7 +6,7 @@ import Axios from 'axios';
 Vue.config.productionTip = false;
 
 Vue.prototype.$axios = Axios;
-
+// 苏晴测试
 new Vue({
   router,
   render: h => h(App),
